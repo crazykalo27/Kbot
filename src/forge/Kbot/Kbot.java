@@ -26,7 +26,7 @@ public class Kbot {
 		
 		//build the bot
 		
-		jda = new JDABuilder(AccountType.BOT).setToken("NzkwOTc4OTg5NjkwMDYwODAw.X-Ielg.0oVzfob6lQ4IAsvmXXYvSi0WB_0").build();
+		jda = new JDABuilder(AccountType.BOT).setToken("NzkwOTc4OTg5NjkwMDYwODAw.X-Ielg.a1WqGJSH1h9kSIse6BGTQUzNLpc").build();
 		jda.getPresence().setStatus(OnlineStatus.ONLINE);
 		jda.getPresence().setActivity(Activity.listening("WOMPUS"));
 		
