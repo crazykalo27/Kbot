@@ -9,3 +9,6 @@ Roll dice
 Store and give files 
 Highlight important messages
 
+Full Discord Bot runnable entirely off of YOUR computer. 
+Go to https://discord.com/developers/applications
+Create a discord Bot, grab the token id and paste that into the spot in the main file
